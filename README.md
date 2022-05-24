@@ -4,11 +4,11 @@ I'm a data analyst from Shanghai😄
 
 **About me**
 
-- 💼 Fresh graduate, Le Wagon Shanghai -> [iworkout project](https://aiworkoutassistant.herokuapp.com/)
-
-- 📈 iworkout ML model and algorithm -> check [here](https://github.com/larisayyen/iworkout)
+- 💼 Fresh graduate of Data Science Batch,Le Wagon Shanghai -> [iworkout project](https://aiworkoutassistant.herokuapp.com/)
 
 - 🔭 I’m currently working on video annotation and production of AI workout.
+
+- 📈 iworkout ML model and algorithm -> check [here](https://github.com/larisayyen/iworkout)
 
 - ❤️ I love Python, and building fun experiments -> [TitanicModel](https://github.com/larisayyen/TitanicModel)
 
