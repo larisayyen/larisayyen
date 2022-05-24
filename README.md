@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm a data analyst from Shanghai😄
+
+**About me**
+
+- 💼 Fresh graduate, Le Wagon Shanghai -> [iworkout project](https://aiworkoutassistant.herokuapp.com/)
+
+- 📈 iworkout ML model and algorithm -> check [here](https://github.com/larisayyen/iworkout)
+
+- 🔭 I’m currently working on video annotation and production of AI workout.
+
+- ❤️ I love Python, and building fun experiments -> [TitanicModel](https://github.com/larisayyen/TitanicModel)
+
+- 💬 Ask me about anything [here](https://github.com/larisayyen/larisayyen/issues)
+
 <!--
 **larisayyen/larisayyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +29,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larisayyen&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larisayyen&layout=compact&hide=jupyter%20notebook&card_width=440)](https://github.com/larisayyen/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larisayyen)](https://github.com/larisayyen/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larisayyen&show_icons=true&theme=prussian)
+
+
+
+
