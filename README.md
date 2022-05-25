@@ -10,7 +10,7 @@ I'm a data analyst from Shanghai😄
 
 - 📈 iworkout ML model and algorithm -> check [here](https://github.com/larisayyen/iworkout)
 
-- ❤️ I love Python, and building fun experiments -> [TitanicModel](https://github.com/larisayyen/TitanicModel)
+- ❤️ I love Python, and building multiple experiments -> [TitanicModel](https://github.com/larisayyen/TitanicModel)
 
 - 💬 Ask me about anything [here](https://github.com/larisayyen/larisayyen/issues)
 
