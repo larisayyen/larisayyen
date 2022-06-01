@@ -6,7 +6,7 @@ I'm a data analyst from Shanghai😄
 
 - 💼 Fresh graduate of Data Science Batch,Le Wagon Shanghai -> [iworkout project](https://aiworkoutassistant.herokuapp.com/)
 
-- 🔭 I’m currently working on video annotation and production of AI workout.
+- 🔭 I’m currently working on video annotation and production of iworkout -> [Streamlit runs perfectly](https://github.com/larisayyen/videopart)
 
 - 📈 iworkout ML model and algorithm -> check [here](https://github.com/larisayyen/iworkout)
 
