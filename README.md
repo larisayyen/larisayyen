@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm a data analyst from Shanghai😄
+I'm a data analyst from ACCA😄 
+
+Main duty: develop BI dashboards ,train ML models ,provide business insights 📈 🔭
 
 **About me**
 
-- 💼 Fresh graduate of Data Science Batch,Le Wagon Shanghai -> [iworkout project](https://aiworkoutassistant.herokuapp.com/)
+- 💼 muiltilingual,team-player,data project manager
 
-- 🔭 I’m currently working on video annotation and production of iworkout -> [Streamlit runs perfectly](https://github.com/larisayyen/videopart)
+-  ⚡Data Science project -> [iworkout project](https://aiworkoutassistant.herokuapp.com/)/[video_annotation](https://github.com/larisayyen/videopart)/[algorithm](https://github.com/larisayyen/iworkout)
 
-- 📈 iworkout ML model and algorithm -> check [here](https://github.com/larisayyen/iworkout)
-
-- ❤️ I love Python, and building multiple experiments -> [Business_Analysis](https://github.com/larisayyen/Olist_Business_Analysis)/[Web_Scraping](https://github.com/larisayyen/Web_Scraping)/ [TitanicModel](https://github.com/larisayyen/TitanicModel)/[Walmart](https://github.com/larisayyen/Walmart_order_dashboard)/ [Case_Analysis](https://github.com/larisayyen/case_interview)
+- ❤️ Python projects -> [Business_Analysis](https://github.com/larisayyen/Olist_Business_Analysis)/[Web_Scraping](https://github.com/larisayyen/Web_Scraping)/ [TitanicModel](https://github.com/larisayyen/TitanicModel)/[Walmart](https://github.com/larisayyen/Walmart_order_dashboard)/ [Case_Analysis](https://github.com/larisayyen/case_interview)
 
 - 💬 Ask me about anything [here](https://github.com/larisayyen/larisayyen/issues)
 
